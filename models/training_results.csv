@@ -1,0 +1,4 @@
+model,train_time_sec,train_accuracy,cv_f1_macro
+logistic_regression,5.8,0.9662,0.8078
+decision_tree,0.92,0.9997,0.8826
+random_forest,1.39,0.9999,0.9185
